@@ -11,7 +11,6 @@ buildifier(
 )
 
 # gazelle:exclude third_party
-# gazelle:exclude vendor
 # gazelle:exclude _output
 # gazelle:prefix github.com/grpc-ecosystem/grpc-gateway/v2
 
